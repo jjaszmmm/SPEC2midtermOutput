@@ -1,0 +1,1 @@
+This game is a simple and interactive Rock Paper Scissors web game where players compete against the computer. It is designed with a user friendly interface that makes the game fun, quick, and easy to play.   Choose either rock, paper, scissors. The computer will randomly select its move. The result will be shown instantly with either a win, lose, or draw.
