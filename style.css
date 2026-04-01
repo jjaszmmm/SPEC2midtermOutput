@@ -14,9 +14,25 @@ body {
     align-items: center;
 }
 
+/* Container */
 .container {
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* Card */
+.card {
+    background: #212529;
+    color: white;
+    max-width: 520px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.4);
+    text-align: center;
+}
+
+.card-body {
+    padding: 25px;
 }
